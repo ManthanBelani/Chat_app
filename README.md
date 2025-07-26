@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+Flutter Chat App Using Firebase and cloud firestore.
 
 ## Getting Started
 
